@@ -1,10 +1,10 @@
 //wifi name and passwd
-const char *ssid     = "ASUS_50_2G";
-const char *password = "agenda_2633";
+const char *ssid     = "YOUR_WIFI_SSID";
+const char *password = "YOUR_WIFI_PASSWARD";
 
 //openweather map variable and api key
-String openWeatherMapApiKey = "483866ef827ce2e7fe1012b3dd90d4c8";
-String city = "Philadelphia";
-String countryCode = "US";
+String openWeatherMapApiKey = "YOUR_OPENWEATHERMAP_API_KEY";
+String city = "YOUR_CITY";
+String countryCode = "YOUR_CITY_COUNTRY_CODE";
 String serverPath = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "," + countryCode + "&APPID=" + openWeatherMapApiKey;
 
