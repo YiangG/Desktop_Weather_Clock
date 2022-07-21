@@ -1,4 +1,5 @@
-# desktop_clock_with_weather
+# Desktop_Weather_Clock
+
 Desktop Weather Clock Project
 
 ### Description: 
