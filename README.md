@@ -31,3 +31,5 @@ For a better appearance, I designed a case to enclose all wires inside. The Case
 ![assemb](assembly.png)
 ![af](assembly_finish.png)
 ![overview](overview.gif)
+
+(Note that the horizontal black line is not visible by bare eyes)
